@@ -7,4 +7,4 @@
  - https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7
 
 # RESULT 
-- ### https://sunny-otter-9b5d49.netlify.app
+- ### https://testimoniogiovannysocas.netlify.app
